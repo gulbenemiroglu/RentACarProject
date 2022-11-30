@@ -1,0 +1,12 @@
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\bin\Debug\net5.0\EntitiesLayer.deps.json
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\bin\Debug\net5.0\EntitiesLayer.dll
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\bin\Debug\net5.0\EntitiesLayer.pdb
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\obj\Debug\net5.0\EntitiesLayer.csproj.AssemblyReference.cache
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\obj\Debug\net5.0\EntitiesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\obj\Debug\net5.0\EntitiesLayer.AssemblyInfoInputs.cache
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\obj\Debug\net5.0\EntitiesLayer.AssemblyInfo.cs
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\obj\Debug\net5.0\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\obj\Debug\net5.0\EntitiesLayer.dll
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\obj\Debug\net5.0\refint\EntitiesLayer.dll
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\obj\Debug\net5.0\EntitiesLayer.pdb
+C:\Users\gulbe\OneDrive\Masaüstü\final2\RentACarProject\EntitiesLayer\obj\Debug\net5.0\ref\EntitiesLayer.dll
